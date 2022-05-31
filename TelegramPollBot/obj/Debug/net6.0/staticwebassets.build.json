@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iSmCVqy1pzXldG0zfIa2RbVZHEvvG0z3HSCS+ERcMLo=",
+  "Source": "TelegramPollBot",
+  "BasePath": "_content/TelegramPollBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
